@@ -102,11 +102,12 @@ Building full-stack applications using modern JavaScript technologies.
 
 ---
 
-## 🐍 Contribution Activity
+## 🏀 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaharyar-169/shaharyar-169/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaharyar-169/shaharyar-169/output/hoops-dark.svg" />
+  <img width="100%" alt="My GitHub contributions played as a basketball shootaround" src="https://raw.githubusercontent.com/shaharyar-169/shaharyar-169/output/hoops.svg" />
+</picture>
 
 ---
 
